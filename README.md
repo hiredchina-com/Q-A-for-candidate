@@ -1,2 +1,4 @@
-# Q-A-for-candidate
-Q&amp;A for candidate
+# Q&A for candidate
+
+
+(Details)[https://github.com/hiredchina-com/Q-A-for-candidate/wiki]
